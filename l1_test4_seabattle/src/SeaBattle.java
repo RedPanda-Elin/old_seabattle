@@ -3,6 +3,7 @@ package l1_test4_seabattle.src;
 /**
  * Created by igor on 18.10.15.
  */
+
 public class SeaBattle {
 
     public static void main(String[] args) { // должен быть маленьким
